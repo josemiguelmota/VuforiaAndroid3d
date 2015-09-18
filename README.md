@@ -1,0 +1,1 @@
+# VuforiaAndroid3d
