@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/classes-f9aa92978d31d7cfc9ab2a302379cce5520a91eb.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/src/main/jME3-core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dea808b6a35fd042f54deeb3546239d0e19a2b78">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/jME3-core-64879b735525ab053b1eec1e569b6b442ee5a6aa.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/classes-9d0fcdf0bc5b818924411669974e031dcf656628.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/src/main/jMonkeyEngine3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7276a47c8055117db4fbda963f2ff9f26bb9861">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/jMonkeyEngine3-a145c5089ba1ce9b4e5a6a9318772685deee20e9.jar" />
+    </item>
+    <item
+        jar="/home/miguel/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-719763721bbe3b64a879575d533b6f3fa878e18f.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/src/main/Vuforia.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dc574f68d5776268181756e656458f20604240af">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/Vuforia-b3c0a014e011593ecc1649c0a9194a739d8c413e.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-aab70b3d7f5a8aae41e661729962ab3166611281.jar" />
+    </item>
+    <item
+        jar="/home/miguel/AndroidStudioProjects/BasicVuforia/app/src/main/jME3-android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6851a75e5a106e322a7502bcff35599b65bfff46">
+        <dex dex="/home/miguel/AndroidStudioProjects/BasicVuforia/app/build/intermediates/pre-dexed/debug/jME3-android-6a4548af02a23f3f04f76bbbe314a7a7095c1d51.jar" />
+    </item>
+
+</items>
